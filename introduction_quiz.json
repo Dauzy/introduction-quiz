@@ -1,0 +1,56 @@
+{
+	"quiz": [
+		{
+			"question": "Describe with your own words. What is a Data Platform?",
+			"answer": "your-answer-here"
+		},
+		{
+			"question": "In the 3 V's of big data. How would you describe Variety?",
+			"answer": "your-answer-here"
+		},
+		{
+			"question": "What are the elements of tidy data?",
+			"answer": "your-answer-here"
+		},
+		{
+			"question": "List the most common format files you know for sharing data",
+			"answer": "csv, tcsv, json, xml, "
+		},
+		{
+			"question": "What is web scrapping?",
+			"answer": "Es una tecnica muy utilizada para extraer informacuion de una web de forma automatizada"
+		},
+		{
+			"question": "What is data integration?",
+			"answer": "En si la integracion de datos combina datos de diferentes fuentes para unificarlos "
+		},
+		{
+			"question": "What is data processing?",
+			"answer": "basicamente es la manipulacion y acomulaicon de los mismos para tener informacion que agregue valor"
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "limpiar, transformar, remodelar, y unir"
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "your-answer-here"
+		},
+		{
+			"question": "What is Data as a Service?",
+			"answer":"Es un modelo que distribuye y nos provee la informacion a travez de una red"
+		},
+		{
+			"question": "What is DataBase as a Service?",
+			"answer": "Es una base de datos predefinida en la nube, lo cual simplifica su despliegue"
+		},
+		{
+			"question": "What is data anlysis?",
+			"answer": "ES un proceso de inspeccion, limpieza y transformacion de los datos, para descubir info que agregue valor y toma de decisiones"
+		},
+		{
+			"question": "Mention some typical use cases for data analysis",
+			"answer": "negocios, ciencias sociales, "
+		}
+	]
+}
