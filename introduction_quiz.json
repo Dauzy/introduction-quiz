@@ -2,7 +2,7 @@
 	"quiz": [
 		{
 			"question": "Describe with your own words. What is a Data Platform?",
-			"answer": "your-answer-here"
+			"answer": "Es una solucion al despliegue aplicaciones de datos y combina las características y capacidades de varias aplicaciones de datos de gran tamaño y utilidades dentro de una sola solución."
 		},
 		{
 			"question": "In the 3 V's of big data. How would you describe Variety?",
@@ -33,10 +33,6 @@
 			"answer": "limpiar, transformar, remodelar, y unir"
 		},
 		{
-			"question": "Mention some common data processing tasks",
-			"answer": "your-answer-here"
-		},
-		{
 			"question": "What is Data as a Service?",
 			"answer":"Es un modelo que distribuye y nos provee la informacion a travez de una red"
 		},
@@ -50,7 +46,7 @@
 		},
 		{
 			"question": "Mention some typical use cases for data analysis",
-			"answer": "negocios, ciencias sociales, "
+			"answer": "negocios, ciencias sociales, politica"
 		}
 	]
 }
