@@ -6,11 +6,11 @@
 		},
 		{
 			"question": "In the 3 V's of big data. How would you describe Variety?",
-			"answer": "your-answer-here"
+			"answer": "Que tiene la capacidad de procesar datos estructurados y no estructurados"
 		},
 		{
 			"question": "What are the elements of tidy data?",
-			"answer": "your-answer-here"
+			"answer": "Ordenados, brutos, una receta exacta"
 		},
 		{
 			"question": "List the most common format files you know for sharing data",
